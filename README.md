@@ -1,4 +1,4 @@
-**Look at the project: `[https://datingel.github.io/react03_state/](https://datingel.github.io/react03_state/)`**
+**Look at the project:** [Click Here](https://datingel.github.io/react03_state/)
 
 ---
 
