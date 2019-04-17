@@ -1,8 +1,8 @@
 {
-  "name": "react3_state",
+  "name": "react03_state",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://datingel.github.io/react3_state/",
+  "homepage": "https://datingel.github.io/react03_state/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
